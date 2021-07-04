@@ -3,8 +3,6 @@ FROM ubuntu
 LABEL MAINTAINER "helplressJ <johndoe@example.com>"
 LABEL SOURCE = "https://github.com/helplessJ/docker_fishtank"
 
-#ENV DEBIAN_FRONTEND=noninteractive
-
 RUN yes | unminimize && \
     apt-get -y --no-install-recommends upgrade && \
     apt-get install -y \

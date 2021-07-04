@@ -10,7 +10,7 @@ Special thanks to RoboBunny https://robobunny.com/wp/ for providing the ascii
 
 **To do**
 
-Figurate out how to make a name for the docker image... 
+Push docker image to a registry like dockerhub... 
 
     REPOSITORY                     TAG       IMAGE ID       CREATED         SIZE
     <none>                         <none>    eae33f2473c6   5 seconds ago   176MB
