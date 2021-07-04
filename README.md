@@ -11,4 +11,4 @@ Figurate out how to make a name for the docker image...
     REPOSITORY                     TAG       IMAGE ID       CREATED         SIZE
     <none>                         <none>    eae33f2473c6   5 seconds ago   176MB
 
-    Is a bit repulsive.
+Is a bit repulsive.
